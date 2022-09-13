@@ -145,3 +145,6 @@ the relation of the two, objectivity, value-ladeness
 * Plausibility:
 * A property of ideas and concepts
 * Balance between evidence for turth and implications
+
+
+* JUST SUBMIT AN OUTLINE NO ACTUAL SENTENCES

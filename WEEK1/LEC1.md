@@ -130,3 +130,18 @@ the relation of the two, objectivity, value-ladeness
 * Everyone is morally falliable
 * Friendship is valuable
 * Children bear less moral responsibility than adults 
+
+### Ethical argumentation
+* Premises:
+* The bases of support
+* Conclusion:
+* The statement of being supported
+* Validty:
+* Property of argument as a whole
+* If the premises are true, the conclusion is true
+* Soundness:
+* Property of argument as a whole
+* Argument is valid and premises are true
+* Plausibility:
+* A property of ideas and concepts
+* Balance between evidence for turth and implications

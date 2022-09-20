@@ -100,6 +100,7 @@ Three lessons
 * Not politics as presented in the media
     * But politics as an ethos and guidance for collective action (or inaction)
         * A collective of what values are worth defending and which aren't
-
-* In discussing politcs we have to accommodate and adjust for bullshit (more than usual)
-    * frankfurt helps us figure out what that is....
+* In dicussing politics we have to accommodate and adjust for bullshit (more than usual).
+   * Frankfurt helps us figure out what that is
+        * one place to start: focus on interets, not on rhetoric
+            * People are more driven by interest than by what they say, espeically in large groups

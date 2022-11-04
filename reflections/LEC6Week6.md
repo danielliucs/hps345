@@ -1,0 +1,1 @@
+I enjoyed this week's lecture on the conversation about the frameworks for ethical AI design practice. I was wondering how we would co-shape our technology and values more and have them coexist instead of constant clashing against one another. I dont' think the two are mutually exclusive, just curious how it would be accomplished
